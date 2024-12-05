@@ -1,0 +1,22 @@
+{
+  "name": "agricultural-land-analyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "mapbox-gl": "^3.8.0",
+    "three": "^0.171.0",
+    "threebox-plugin": "^2.2.7"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.2"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[106.82, -6.17], [106.83, -6.17], [106.83, -6.18], [106.82, -6.18], [106.82, -6.17]]]
+            },
+            "properties": {
+                "crop": "Rice",
+                "soil_quality": "High",
+                "water_availability": "Adequate"
+            }
+        }
+    ]
+}
